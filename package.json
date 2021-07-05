@@ -4,7 +4,7 @@
   "scripts": {
     "build": "rescript",
     "clean": "rescript clean -with-deps",
-    "start": "rescript build -w"
+    "start": "rescript build -w -with-deps"
   },
   "keywords": [
     "rescript"
@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "rescript": "*"
+    "bs-pixi": "^0.1.14",
+    "rescript": "9.1.2"
   }
 }
