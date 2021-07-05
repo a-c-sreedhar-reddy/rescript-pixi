@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "bs-pixi": "^0.1.14",
-    "rescript": "*"
+    "rescript": "*",
+    "bs-webapi": "^0.19.1"
   }
 }
